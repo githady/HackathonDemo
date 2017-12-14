@@ -16,7 +16,7 @@ namespace HackathonDemo
         {
             base.OnCreate(bundle);
             // Analytics for crashes
-            AppCenter.Start("cdd78cdf-e298-4828-8a21-b9713cb6b197",
+            AppCenter.Start("2f8483ad-fcd5-4df1-8d15-5a756ea1d9ac",
                    typeof(Analytics), typeof(Crashes));
 
             // Set our view from the "main" layout resource
