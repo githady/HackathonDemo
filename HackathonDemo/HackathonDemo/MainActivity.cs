@@ -9,7 +9,7 @@ using HackathonApp;
 
 namespace HackathonDemo
 {
-    [Activity(Label = "App", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "HackathonApp", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)
